@@ -1,0 +1,12 @@
+Package: vegajavaR
+Type: Package
+Title: Descriptor Calculation, implementation in R
+Version: 0.1.4
+Author: Cosimo Toma
+Maintainer: Cosimo Toma <cosimotoma88@gmail.com>
+Description: Implementation of Alberto Manganaro Vega Descriptor Calculation
+License: N/A
+Encoding: UTF-8
+LazyData: true
+Depends: R(>= 2.5.0), rJava (>= 0.9-9)
+RoxygenNote: 6.1.1
